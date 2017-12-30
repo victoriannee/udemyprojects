@@ -1,0 +1,42 @@
+body {
+	background-color: silver;
+	font-family: 'MontserratRegular'; 
+	font-weight: normal; 
+	font-style: normal; 
+}
+
+h1 {
+	font-family: 'XoloniumRegular';
+	font-weight: bold; 
+	font-style: normal;
+}
+
+h2 {
+	font-family: 'XoloniumRegular';
+	font-weight: normal; 
+	font-style: normal;
+}
+
+h3 {
+	font-family: 'XoloniumRegular';
+	font-weight: normal; 
+	font-style: normal;
+}
+
+p {
+	font-family: 'MontserratRegular'; 
+	font-weight: normal; 
+	font-style: normal; 
+}
+
+
+ol {
+	font-size: 1.1em;
+
+}
+
+li#complete {
+	font-size: .8em;
+	background-color: yellow;
+	width: 150px;
+}
